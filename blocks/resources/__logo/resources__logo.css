@@ -1,0 +1,14 @@
+.resources__logo {
+  display: block;
+  width: 270px;
+  height: 38px;
+  -webkit-transition: opacity .75s ease-in-out;
+  -moz-transition: opacity .75s ease-in-out;
+  -ms-transition: opacity .75s ease-in-out;
+  -o-transition: opacity .75s ease-in-out;
+  transition: opacity .75s ease-in-out;
+}
+
+.resources__logo:hover {
+  opacity: 0.5;
+}
